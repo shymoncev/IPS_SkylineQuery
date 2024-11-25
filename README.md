@@ -8,16 +8,7 @@ Inverted Pinnacle Skyline 계산: 데이터셋에서 지배되지 않는 높은 
 계층별 스카이라인 형성: 데이터에서 계층별로 스카이라인을 반복적으로 형성하여 다양한 위험도 계층을 분석합니다.
 시각화: 3D 시각화를 통해 Inverted Pinnacle Skyline 포인트와 전체 데이터 분포를 시각화합니다.
 
-Directory Structure:
-ADS_Skyline/
-├── IPS_prediabetes.py       # Inverted Pinnacle Skyline 알고리즘을 적용하여 전당뇨 데이터 분석
-├── Linear Speach.py         # 선형 탐색을 통한 지배되지 않는 데이터 포인트 분석
-├── data_generation.py       # 당뇨병 전증의 범위를 기반하여 데이터를 생성하는 코드
-├── skyline/                 # 스카이라인 알고리즘과 관련된 주요 모듈을 포함하는 폴더
-│   ├── IPS.py               # Inverted Pinnacle Skyline 알고리즘 구현
-│   ├── layered.py           # 계층형 스카이라인 형성 함수
-│   └── plotting.py          # 스카이라인 포인트 및 전체 데이터의 3D 시각화 함수
-└── requirements.txt         # 필요한 Python 패키지 목록
+
 
 
 주요 알고리즘 설명
